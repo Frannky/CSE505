@@ -4,6 +4,7 @@ The course explores logic-based computing and logic programming. It includes an 
 hw
 
 Stable Model and Herbrand Universe            09/2019
+
 •	Used Prolog to compute resolution and least herbrand universe.
 •	Used Prolog to compute the stable model and herbrand universe given rules and facts.
 •	Recursively calculate the result of herbrand model and finally get the result does not change.
